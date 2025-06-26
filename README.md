@@ -22,16 +22,10 @@ I use GitHub to:
 
 ## 📁 Featured Repositories
 
-### [technical-interview-guide](https://github.com/yourusername/technical-interview-guide)
 A guide to common tech hiring steps, interview formats, and prep tips for candidates.
-
-### [sourcing-cheat-sheet](https://github.com/yourusername/sourcing-cheat-sheet)
 Boolean search strings and GitHub/LinkedIn sourcing tips for recruiters.
-
-### [awesome-developer-resources](https://github.com/yourusername/awesome-developer-resources)
 A list of free tools, learning sites, and open source projects for devs and job seekers.
 
----
 
 ## 🌍 Recruiting Across:
 - 🇬🇧 United Kingdom
